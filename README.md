@@ -29,10 +29,10 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 ## 📌 Challenges List  
 
 ### 🟢 **Level: Noob**  
-#### 📌 **Question 1: 🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
-#### 📌 **Question 2: 🔗 **[Problem Statement](problems/numpy_matrix_operations.md)** | 📝 **[Solution](solutions/numpy_matrix_operations.py)**  
-#### 📌 **Question 3: 🔗 **[Problem Statement](problems/numpy_statistics.md)** | 📝 **[Solution](solutions/numpy_statistics.py)**  
-#### 📌 **Question 4: 🔗 **[Problem Statement](problems/numpy_indexing_slicing.md)** | 📝 **[Solution](solutions/numpy_indexing_slicing.py)**  
+#### 📌 **Question 1:** 🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
+#### 📌 **Question 2:** 🔗 **[Problem Statement](problems/numpy_matrix_operations.md)** | 📝 **[Solution](solutions/numpy_matrix_operations.py)**  
+#### 📌 **Question 3:** 🔗 **[Problem Statement](problems/numpy_statistics.md)** | 📝 **[Solution](solutions/numpy_statistics.py)**  
+#### 📌 **Question 4:** 🔗 **[Problem Statement](problems/numpy_indexing_slicing.md)** | 📝 **[Solution](solutions/numpy_indexing_slicing.py)**  
 
 
 ---
