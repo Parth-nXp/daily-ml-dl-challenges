@@ -7,7 +7,7 @@ def numpy_indexing_slicing():
                         'Last Column': array[:,-1].tolist(),
                         'Center 2x2 Submatrix': array[1:-1,1:-1].tolist() 
     }
-    return sliced_arrays
+    return extracted_slices
 
 
 results = numpy_indexing_slicing()
