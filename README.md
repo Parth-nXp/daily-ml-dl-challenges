@@ -53,10 +53,10 @@ Implement a **Linear Regression model** using **NumPy** from scratch. The model 
 - Fork the repo, solve problems, and submit a PR!
 
 
-🔥 Stay Consistent & Level Up!
-Solving 1-2 problems daily 📈
-Tracking progress through levels 🏆
-Mastering ML, DL, and GenAI implementations 🚀
+## 🔥 Stay Consistent & Level Up!
+- Solving 1-2 problems daily 📈
+- Tracking progress through levels 🏆
+- Mastering ML, DL, and GenAI implementations 🚀
 🔹 Follow the repo for daily challenges!
 
 💡 Let's solve, learn, and grow together! 🚀
