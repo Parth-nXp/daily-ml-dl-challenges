@@ -8,4 +8,5 @@ The goal is to **solve 1-2 coding problems daily**, starting from basics to adva
 
 ## 📂 Repository Structure  
 
-📂 problems/ # Contains all coding questions 📂 solutions/ # Contains all solutions to problems 📜 README.md # Main repository documentation
+# 📂 problems# 
+Contains all coding questions 📂 solutions/ # Contains all solutions to problems 📜 README.md # Main repository documentation
