@@ -36,8 +36,8 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 ## 🚀 How to Use?  
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/your-username/ml-dl-genai-daily.git
-   cd ml-dl-genai-daily
+   git clone https://github.com/Parth-nXp/daily-ml-dl-challenges.git
+   cd daily-ml-dl-challenges
 2. Navigate to problems and solutions
 - 📂 Check problems/ for questions
 - 📂 Check solutions/ for implementations
