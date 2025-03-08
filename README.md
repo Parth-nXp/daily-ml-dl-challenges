@@ -50,6 +50,7 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 - Solving 1-2 problems daily 📈
 - Tracking progress through levels 🏆
 - Mastering ML, DL, and GenAI implementations 🚀
+
 🔹 Follow the repo for daily challenges!
 
 💡 Let's solve, learn, and grow together! 🚀
