@@ -30,7 +30,7 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 
 ### 🟢 **Level: Noob**  
 #### 📌 **Question 1: Python Lists & NumPy Basics**   🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
-#### 📌 **Question 2: Python Lists & NumPy Basics**   🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
+#### 📌 **Question 2: Python Lists & NumPy Basics**   🔗 **[Problem Statement](problems/numpy_matrix_operations.md)** | 📝 **[Solution](solutions/numpy_matrix_operations.py)**  
 
 
 ---
