@@ -1,14 +1,15 @@
-'''
-👉 Write a Python function that:
-
-1. Creates a NumPy array from a given list of numbers.
-2. Computes the sum, mean, and standard deviation of the array.
-3. Returns these values.
-
-'''
-
 import numpy as np
 
-arr = np.random.rand(7)
+def array_stats(arr):
+    numpy_array = np.array(arr)
+    sum_array = np.sum(numpy_array)
+    mean_array = np.mean(numpy_array)
+    std_array = np.std(numpy_array)
 
-print(arr)
+    return sum_array, mean_array, std_array
+
+
+
+arr = [1, 2, 3, 4, 5, 6, 7, 8]
+results = array_stats(arr)
+print(results)
