@@ -28,23 +28,18 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 
 ## 📌 Challenges List  
 
-### 🏆 **Level: Noob**  
-#### 📌 **Question 1: Implement a Simple Linear Regression Model**  
-**Problem Statement:**  
-Implement a **Linear Regression model** using **NumPy** from scratch. The model should:  
-✅ Solve using **Normal Equation**  
-✅ Solve using **Gradient Descent**  
-✅ Use **Mean Squared Error (MSE)** as the loss function  
+### 🟢 **Level: Noob**  
+#### 📌 **Question 1: Python Lists & NumPy Basics**   🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
+#### 📌 **Question 2: Python Lists & NumPy Basics**   🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
 
-🔗 **[Problem Statement](problems/linear_regression.md)** | 📝 **[Solution](solutions/linear_regression.py)**  
 
 ---
 
 ## 🚀 How to Use?  
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/your-username/ml-dl-genai-daily.git
-   cd ml-dl-genai-daily
+   git clone https://github.com/Parth-nXp/daily-ml-dl-challenges.git
+   cd daily-ml-dl-challenges
 2. Navigate to problems and solutions
 - 📂 Check problems/ for questions
 - 📂 Check solutions/ for implementations
@@ -57,6 +52,7 @@ Implement a **Linear Regression model** using **NumPy** from scratch. The model 
 - Solving 1-2 problems daily 📈
 - Tracking progress through levels 🏆
 - Mastering ML, DL, and GenAI implementations 🚀
+
 🔹 Follow the repo for daily challenges!
 
 💡 Let's solve, learn, and grow together! 🚀
