@@ -29,12 +29,12 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 ## 📌 Challenges List  
 
 ### 🟢 **Level: Noob**  
-#### 📌 **Question 1:** 🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
-#### 📌 **Question 2:** 🔗 **[Problem Statement](problems/numpy_matrix_operations.md)** | 📝 **[Solution](solutions/numpy_matrix_operations.py)**  
-#### 📌 **Question 3:** 🔗 **[Problem Statement](problems/numpy_statistics.md)** | 📝 **[Solution](solutions/numpy_statistics.py)**  
-#### 📌 **Question 4:** 🔗 **[Problem Statement](problems/numpy_indexing_slicing.md)** | 📝 **[Solution](solutions/numpy_indexing_slicing.py)**  
-#### 📌 **Question 5:** 🔗 **[Problem Statement](problems/numpy_reshape_flatten.md)** | 📝 **[Solution](solutions/numpy_reshape_flatten.py)**  
-#### 📌 **Question 6:** 🔗 **[Problem Statement](problems/numpy_broadcasting.md)** | 📝 **[Solution](solutions/numpy_broadcasting.py)**  
+#### 📌 **Question 1: NumPy Array Operations** 🔗 **[Problem Statement](problems/numpy_array_operations.md)** | 📝 **[Solution](solutions/numpy_array_operations.py)**  
+#### 📌 **Question 2: NumPy Matrix Transpose & Dot Product** 🔗 **[Problem Statement](problems/numpy_matrix_operations.md)** | 📝 **[Solution](solutions/numpy_matrix_operations.py)**  
+#### 📌 **Question 3: NumPy Statistical Functions** 🔗 **[Problem Statement](problems/numpy_statistics.md)** | 📝 **[Solution](solutions/numpy_statistics.py)**  
+#### 📌 **Question 4: NumPy Indexing & Slicing** 🔗 **[Problem Statement](problems/numpy_indexing_slicing.md)** | 📝 **[Solution](solutions/numpy_indexing_slicing.py)**  
+#### 📌 **Question 5: NumPy Broadcasting** 🔗 **[Problem Statement](problems/numpy_reshape_flatten.md)** | 📝 **[Solution](solutions/numpy_reshape_flatten.py)**  
+#### 📌 **Question 6: NumPy Reshaping & Flattening** 🔗 **[Problem Statement](problems/numpy_broadcasting.md)** | 📝 **[Solution](solutions/numpy_broadcasting.py)**  
 
 
 ---
