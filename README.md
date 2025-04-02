@@ -35,7 +35,7 @@ Each problem is described in the `problems/` folder, and the corresponding solut
 #### 📌 **Question 4: NumPy Indexing & Slicing** 🔗 **[Problem Statement](problems/numpy_indexing_slicing.md)** | 📝 **[Solution](solutions/numpy_indexing_slicing.py)**  
 #### 📌 **Question 5: NumPy Broadcasting** 🔗 **[Problem Statement](problems/numpy_reshape_flatten.md)** | 📝 **[Solution](solutions/numpy_reshape_flatten.py)**  
 #### 📌 **Question 6: NumPy Reshaping & Flattening** 🔗 **[Problem Statement](problems/numpy_broadcasting.md)** | 📝 **[Solution](solutions/numpy_broadcasting.py)**  
-#### 📌 **Question 7: NumPy Stacking & Concatenation** 🔗 **[Problem Statement](problems/numpy_stack_concatenate.md)** | 📝 **[Solution](solutions/numpy_broadcasting.py)**  
+#### 📌 **Question 7: NumPy Stacking & Concatenation** 🔗 **[Problem Statement](problems/numpy_stack_concatenate.md)** | 📝 **[Solution](solutions/numpy_stack_concatenate.py)**  
 
 
 ---
